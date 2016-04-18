@@ -1,0 +1,60 @@
+body {
+	margin:0;
+	padding:0;
+	color: black;
+}
+
+.navbar-default {
+    background-color: gray;
+    border-color: #E7E7E7;
+}
+
+h1{
+	font-size: 35px;
+	padding: 15px;
+}
+
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0; 
+  border: 2px solid black;
+}
+
+#main-text{
+	background-color: cyan;
+	height: 1500px;
+	margin: 15px;
+	font-size: 18px;
+	color: black;
+}
+
+.navbar-nav {
+	
+	background-color:#f6f329;
+	margin-top:0;
+	margin-bottom: 0;
+	padding:0;
+	
+	color: blue;
+}
+
+.navbar-brand {
+  padding-left: 15px;
+
+}
+
+#bs-example-navbar-collapse-1 li {
+	
+	border:1px solid black;
+	color: black;
+}
+
+
+@media (max-width: 767px){
+	#main-text{
+	margin: auto 30px;
+	}
+	.navbar-brand {
+    padding-left: 35px;
+    }
+}

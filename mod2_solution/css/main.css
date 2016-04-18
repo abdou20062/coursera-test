@@ -15,7 +15,7 @@ h1 {
   
  
   margin: 10px;
-  border: 1px thick black;
+  border: 1px thick;
   background-color: #FFD080;
 }
 
@@ -28,7 +28,7 @@ h1 {
   padding: 4px;
   text-align: center;
   
-  border: 1px thick black;
+  border: 1px thick;
   background-color: #C3B8FF;
  
 }
@@ -39,7 +39,7 @@ h1 {
   width: 140px;
   padding: 4px;
   text-align: center;
-  border: 1px thick black;
+  border: 1px thick;
   background-color: #33FF8B;
  
 }
@@ -52,7 +52,7 @@ h1 {
   padding: 4px;
   text-align: center;
   
-  border: 1px thick black;
+  border: 1px thick;
   background-color: #D8FF57;
  
 }
